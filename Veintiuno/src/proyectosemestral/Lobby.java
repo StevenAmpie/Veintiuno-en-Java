@@ -104,12 +104,12 @@ public class Lobby extends JFrame {
 		btnPlayTablero.setFont(new Font("Viner Hand ITC", Font.BOLD, 30));
 		
 		JLabel imagenDecoracion = new JLabel("");
-		imagenDecoracion.setIcon(new ImageIcon("C:\\Users\\Steven\\Downloads\\honor_clubs.png"));
+		imagenDecoracion.setIcon(new ImageIcon("/Users/Steven/Desktop/Code/Veintiuno/imagenes/honor_clubs.png"));
 		imagenDecoracion.setBounds(10, 234, 505, 351);
 		contentPane.add(imagenDecoracion);
 		
 		JLabel imagenDecoracion2 = new JLabel("");
-		imagenDecoracion2.setIcon(new ImageIcon("C:\\Users\\Steven\\Downloads\\honor_diamond.png"));
+		imagenDecoracion2.setIcon(new ImageIcon("/Users/Steven/Desktop/Code/Veintiuno/imagenes/honor_diamond.png"));
 		imagenDecoracion2.setBounds(782, 263, 505, 351);
 		contentPane.add(imagenDecoracion2);
 		
